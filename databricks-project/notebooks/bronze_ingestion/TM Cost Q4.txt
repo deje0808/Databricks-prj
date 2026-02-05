@@ -1,5 +1,0 @@
---*********Total Interline Cost by Shipment. Looks at each FB to find Total Interline Cost. Helps identify shipment holding total Interline Cost.*********
-
-
-
-FBIntPayAmount -- not needed
